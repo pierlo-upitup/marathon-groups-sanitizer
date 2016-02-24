@@ -1,6 +1,6 @@
 # Marathon Groups JSON Sanitizer
 
-A basic script to convert the raw `/groups` output to a re-deployable JSON file.
+A basic script to convert the raw `/groups` output from a running [Marathon](ttps://github.com/mesosphere/marathon) instance to a re-deployable JSON file.
 
 # Setup
 
